@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "description": "Custom Jetton mimicking USDT (not official).",
+  "symbol": "USDT",
+  "decimals": 6,
+  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=029"
+}

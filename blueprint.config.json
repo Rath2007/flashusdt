@@ -1,0 +1,5 @@
+{
+  "contracts": {
+    "FlashUSDT": "contracts/FlashUSDT.tact"
+  }
+}
